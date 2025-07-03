@@ -190,6 +190,7 @@ footer div{
     
     button{
         width: 25vw;
+        height: 4vh;
         display: flex;
         justify-self: end;
         margin-right: 3vw;
